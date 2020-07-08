@@ -1,0 +1,8 @@
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\bin\Debug\APAR_Travel_Mail_Sent_Scheduler.exe.config
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\bin\Debug\APAR_Travel_Mail_Sent_Scheduler.exe
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\bin\Debug\APAR_Travel_Mail_Sent_Scheduler.pdb
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\obj\Debug\APAR_Travel_Mail_Sent_Scheduler.exe
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\obj\Debug\APAR_Travel_Mail_Sent_Scheduler.pdb
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_Travel_Mail_Sent_Scheduler\APAR_Travel_Mail_Sent_Scheduler\obj\Debug\APAR_Travel_Mail_Sent_Scheduler.csprojResolveAssemblyReference.cache
